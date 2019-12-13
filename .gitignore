@@ -1,0 +1,4 @@
+venv
+.idea
+mine_server/*
+!mine_server/BuildTools.jar
